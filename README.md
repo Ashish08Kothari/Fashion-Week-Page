@@ -5,4 +5,4 @@ Welcome to the Fashion Week Concept Website project! This website showcases a co
 <p>Explore the live demo of the Fashion Week Concept Website:</p>
 <p><a href="<h2 id="demo">Demo</h2>
 <p>Explore the live demo of the Fashion Week Concept Website:</p>
-<p><a href=" https://ashish08kothari.github.io/Fashion-Week-Page/">Live Demo</a></p>
+<p><a href="https://ashish08kothari.github.io/Fashion-Week-Page/">Live Demo</a></p>
